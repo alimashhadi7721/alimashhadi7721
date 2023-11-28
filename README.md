@@ -12,4 +12,4 @@ R programming learning i sin progress
 https://quizform.net/
 https://github.com/Ditectrev/Professional-Scrum-Product-Owner-PSPO-I-Practice-Tests-Exams-Questions-Answers
 i passed PSPO 22 aug 2023
-i strated  PBA / SAFe / PfMP /  ACP
+i strated  PBA / SAFe / PfMP /  ACP i will share some  documents in future 
